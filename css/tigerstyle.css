@@ -154,6 +154,7 @@ font-family: 'Audiowide', cursive;
   position: relative;
   width: 100%;
   overflow: hidden;
+  height: 750px;
 }
 
 .carousel-inner::after {
@@ -336,7 +337,7 @@ font-family: 'Audiowide', cursive;
   margin-right: auto;
   left: 0;
   right: 0;
-  bottom: 50px;
+  top: 400px;
   text-align: center;
   font-family: 'Staatliches', cursive;
   color: #ffffff;
